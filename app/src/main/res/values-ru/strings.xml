@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бизнес Визитка</string>
+    <string name="full_name">Вячеслав Зайцев</string>
+    <string name="title">Андроид Разработчик </string>
+    <string name="group">Группа: Б23_191_3</string>
+    <string name="phone">+89501721870</string>
+    <string name="telegram">@ZaytsevVyacheslav</string>
+    <string name="email">maket887@gmail.com</string>
+    <string name="profile_description">Андроид Разработчик</string>
+</resources>
