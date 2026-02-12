@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Business Card</string>
     <string name="full_name">Vyacheslav Zaytsev</string>
     <string name="title">Android Developer </string>
-    <string name="group">Group: B23-191-3</string>
+    <string name="group">Group: B23_191_3</string>
     <string name="phone">+89501721870</string>
     <string name="telegram">@ZaytsevVyacheslav</string>
     <string name="email">maket887@gmail.com</string>
